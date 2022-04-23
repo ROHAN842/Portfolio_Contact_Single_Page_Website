@@ -18,7 +18,7 @@
 
 ## What is Portfolio_Contact_Single_Page_Website? 🤔
 
-#### It is a website consisting of all of coding platform sites profile as well as my social media handles profile links.
+#### It is a website consisting all of my coding platform sites profile as well as social media handles profile links.
 
 
 ## How it works? 🤔
